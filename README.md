@@ -1,0 +1,2 @@
+We set out with the goal of testing an pilot survey method at Carbyn Creek in hopes of setting up a repeatable and standardized monitoring program at this location, so that we may continue to accurately account for species occupancy and trends at this location for years to come. 
+<img width="1231" height="742" alt="image" src="https://github.com/user-attachments/assets/f212c493-8991-4264-9179-e75cd3e17d64" />
